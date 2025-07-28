@@ -1,15 +1,19 @@
-# Simple Calculator?
+# Simple Lazy Calculator
 
-## Overview
+Простой калькулятор на Java с графическим интерфейсом Swing.
 
-อย่าคิดอะไรเยอะมันก็แค่เครื่องคิดเลขธรรมดาๆ จริงๆนะ
+## Функции
 
-A calculator developed based on my own programming skills :>
+- Сложение, вычитание, умножение, деление, остаток от деления
+- Процент
+- Очистка ввода и удаление последнего символа
+- Обработка ошибок деления на ноль
 
-## Requirements
+## Запуск
 
-- **JDK 23 or higher** is required to run this application
+- Скомпилировать и запустить класс `Calculator.java`
+- Требуется Java JDK 11 и выше
 
-If you don’t have JDK 23 installed, download and install it from the [official JDK download website](https://jdk.java.net/23/)
+## Автор
 
-ใช้ JDK 23+ ไปสำหรับรันโปรแกรม โหลดได้ตาม link ข้างต้น
+Кристина Маркисова
